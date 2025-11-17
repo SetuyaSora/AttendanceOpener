@@ -1,8 +1,7 @@
 # 出席とうろくん (AttendanceOpener)
 
 指定した時間に特定のWebサイト（大学の出席登録サイトなど）を自動で開くためのWindowsデスクトップアプリケーションです。便利です。
-note記事はこちら↓
-https://note.com/setuya_sora/n/n120860f864aa
+note記事はこちら→https://note.com/setuya_sora/n/n120860f864aa
 
 
 
